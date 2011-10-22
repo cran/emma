@@ -1,0 +1,2 @@
+export(emmat0,emmacheck,emmatn,emma,ackley,peaks,plot.emma)
+S3method(plot,emma)
